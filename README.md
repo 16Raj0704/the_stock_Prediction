@@ -44,11 +44,22 @@ This is a **Stock Price Prediction App** built using **Streamlit**. It utilizes 
 Run the Streamlit app using:
 ```bash
 streamlit run combine.py
+```
 pip install -r requirements.txt
 .
 ├── combine.py          # Main app file
 ├── requirements.txt    # Required packages
 └── README.md            # Documentation (This file)
+
+
+
+
+
+
+# License 📄
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this software. See the [LICENSE](LICENSE) file for more details.
+```plaintext
 MIT License
 
 Copyright (c) 2025 Your Name
@@ -69,4 +80,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE
