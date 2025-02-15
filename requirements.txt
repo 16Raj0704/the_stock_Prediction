@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+numpy
+plotly
+requests
+nltk
+scikit-learn
+ta
+tensorflow
+newsapi-python
